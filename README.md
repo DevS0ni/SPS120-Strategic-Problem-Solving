@@ -1,7 +1,7 @@
 # SPS120 - Strategic Problem Solving
 
 This repository contains all of my code programs and work which I performed in the above mentioned course.
-* Projects (#3)
+* Group Projects (#3)
 
 ----------------------------------------
 Course Description
