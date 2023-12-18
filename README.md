@@ -9,21 +9,22 @@ Course Description
 After successful completion of this course, it helped me to...
 
 ```
-  * Understand the concepts of critical thinking, documentation, presentation, and project management
-    with an emphasis on problem analysis and problem solving.
+  * Understand the concepts of critical thinking, documentation, presentation,
+    and project management with an emphasis on problem analysis and problem solving.
   * Provide the basis for deriving practical solutions to common and abstract problems.
-  * To work in teams to analyze problems, document their processes and solutions, and present
-    their findings.
-  * Analyze a practical problem into modular components using accepted decomposition principles to
-    develop a supportable solution
-  * Identify the stages in the solution of a problem using flowchart techniques to communicate the
-    priorities and process the solution
-  * Explain the elements of a solution using effective oral and written communication techniques to
-    inform a technical and non-technical audience
+  * To work in teams to analyze problems, document their processes and solutions, and
+    present their findings.
+  * Analyze a practical problem into modular components using accepted decomposition
+    principles to develop a supportable solution
+  * Identify the stages in the solution of a problem using flowchart techniques to
+    communicate the priorities and process the solution
+  * Explain the elements of a solution using effective oral and written communication
+    techniques to inform a technical and non-technical audience
   * Apply logical and consistent reasoning to a problem solving strategy
-  * Apply researched information and solutions to broad, complex, and evolving tech-industry based problems
-  * Integrate foundational project management techniques into group work to enhance group collaboration,
-    efficiency, and project outcomes
+  * Apply researched information and solutions to broad, complex, and evolving tech-industry
+    based problems
+  * Integrate foundational project management techniques into group work to enhance group
+    collaboration, efficiency, and project outcomes
   * Gain a handsome knowledge on all of the topics of Strategic Problem Solving namely-
      > Problem Solving
         ~ Applications in an IT environment
