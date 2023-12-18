@@ -1,1 +1,1 @@
-# SPS120-Strategic-Problem-Solving
+# SPS120 - Strategic Problem Solving
